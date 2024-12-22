@@ -1,4 +1,4 @@
-# AI System Desing 2024 Project
+# AI System Design 2024 Project
 
 Geonho Lee, Sumin Lee, Sungwan Ryu
 
