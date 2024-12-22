@@ -1,0 +1,3 @@
+python3 quantize_c4_ex1_w4.py
+
+python3 quantize_c4_ex1_w2.py
